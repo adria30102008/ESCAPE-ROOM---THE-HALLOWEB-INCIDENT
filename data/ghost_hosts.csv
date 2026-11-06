@@ -1,9 +1,0 @@
-ID,Hostname,IP,Tipus_Amenaca,Nivell_Risc,Port_Infectat
-1,phantom-server,192.0.2.10,Acces_no_autoritzat,Alt,22
-2,specter-web,192.0.2.20,Webshell,Critic,443
-3,haunted-db,192.0.2.30,Exfiltracio_de_dades,Critic,3306
-4,ghost-desktop,192.0.2.40,Forca_bruta,Alt,3389
-5,shadow-ftp,192.0.2.50,Robatori_de_credencials,Alt,21
-6,cursed-printer,192.0.2.60,Activitat_sospitosa,Baix,9100
-7,poltergeist-dev,192.0.2.70,Servei_desconegut,Mitja,8080
-8,nightmare-dns,192.0.2.80,Manipulacio_DNS,Critic,53
